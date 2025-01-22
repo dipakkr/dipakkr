@@ -7,7 +7,7 @@
 
 - Software Engineer @ Airmeet 
 
-- Author [A to Z Resources for students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ( 13k stars )
+- Author [A to Z Resources for students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ( 18k+ stars )
 
 - Love building side projects. Built <a href="https://apiforpm.tech"> apiforpm.tech </a>,  <a href="https://stackit.in"> stackit.in </a>, <a href="https://pricingforpm.in"> pricingforpm.in </a> 
 
