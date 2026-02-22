@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
-
 <h1 align="center">Hey, I'm Deepak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
 
 <h3 align="center">Senior AI Engineer · LLM Training & Evaluation · RAG · Agentic Systems · Distributed Systems at Scale</h3>
