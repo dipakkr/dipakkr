@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Trained LLaMA 4 with researchers at Meta, OpenAI & Google. Scaled real-time infrastructure to 100K+ concurrent users. Maintaining open-source repositories with 24K+ GitHub stars.
+  LLM Training for models like LLaMA 4 with researchers at Meta/OpenAI. Scaled real-time infrastructure to 100K+ concurrent users. Maintaining open-source repositories with 24K+ GitHub stars.
 </p>
 
 ---
